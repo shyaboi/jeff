@@ -1,0 +1,13 @@
+{
+  "name": "iptacker",
+  "version": "0.0.1",
+  "description": "this is a server/client side ip tracker",
+  "main": "index.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
