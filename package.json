@@ -2,7 +2,7 @@
   "name": "muttandjeff",
   "version": "0.0.4",
   "description": "this is a server/client side ip tracker",
-  "main": "app.js",
+  "main": "app.jsx",
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
