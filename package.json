@@ -4,7 +4,7 @@
   "description": "this is a server/client side ip tracker",
   "main": "app.jsx",
   "scripts": {
-    "start": "node app.js",
+    "start": "node app.jsx",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
