@@ -1,6 +1,6 @@
 {
   "name": "muttandjeff",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "this is a server/client side ip tracker",
   "main": "app.js",
   "scripts": {
