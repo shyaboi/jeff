@@ -1,13 +1,19 @@
 {
   "name": "muttandjeff",
   "version": "0.0.5",
+  "type": "module",
   "description": "this is a server/client side ip tracker",
-  "main": "app.jsx",
+  "main": "app.js",
   "scripts": {
-    "start": "node app.jsx",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "dependencies": {}
 }
